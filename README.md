@@ -60,7 +60,7 @@ So, We have total 6 tables and below is the ERD diagram which explain the detail
 
 * Creating a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. 
 
-![image](https://user-images.githubusercontent.com/85472349/127812617-5907f385-2ab5-45d4-a442-81c03cc300c4.png)
+![image](https://user-images.githubusercontent.com/85472349/127926901-c8a85363-a916-4a31-a033-e73ba8164f38.png)
 
 Writing a Query language with the databe in the above methods will provide the number of **retiring employees per title**, and identify employees who are eligible to participate in a **mentorship program** for **Pewlett-Hackard**.
 
